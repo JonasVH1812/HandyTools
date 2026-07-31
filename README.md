@@ -16,7 +16,7 @@ Mac only. On modern macOS you'll need to grant your terminal (or VS Code) access
 
 `System Settings → Privacy & Security → Files and Folders`
 
-**Usage**
+### setup
 
 By default the script runs in dry-run mode, printing what it would move without touching anything.
 
