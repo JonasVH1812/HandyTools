@@ -4,7 +4,7 @@ A small collection of quality-of-life scripts for your computer.
 
 ## Contents
 
-- `mac_sorter.py` — Mac cleanup script
+- `computerCleanUpBeta.py` — Mac cleanup script
 
 ## mac_sorter.py
 
