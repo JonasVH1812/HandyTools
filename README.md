@@ -26,7 +26,7 @@ python3 mac_sorter.py
 
 Once you're happy with the output, open the script, set `DRY_RUN = False`, and run it again to actually move things.
 
-## Screenshots
+## preview Screenshots
 
 ### before
 ![Before](images/before.png)
